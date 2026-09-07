@@ -137,7 +137,7 @@ The SDK uses an asynchronous local loopback HTTP server (`http://localhost:8080/
 
 - **Website & Dashboard**: [https://crimsonflame.net](https://crimsonflame.net)
 - **CrimX Portal**: [https://crimsonflame.net/crimx](https://crimsonflame.net/crimx)
-- **Documentation**: [https://crimsonflame.net/docs](https://crimsonflame.net/docs)
+- **Documentation**: [https://docs.crimx.crimsonflame.net](https://docs.crimx.crimsonflame.net)
 
 ---
 
