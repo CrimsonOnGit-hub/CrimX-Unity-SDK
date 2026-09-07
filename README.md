@@ -129,7 +129,7 @@ CrimX-Unity-SDK/
 
 ## 🔒 Security & Loopback
 
-The SDK uses an asynchronous local loopback HTTP server (`http://localhost:8080/callback`) to securely intercept authentication redirects without requiring the game process to expose credentials or host insecure webviews. Tokens are stored in Unity's standard encrypted PlayerPrefs storage and validated against CrimX Cloud Run endpoints.
+The SDK uses an asynchronous local loopback HTTP server (`http://localhost:8080/callback`) to securely intercept authentication redirects without requiring the game process to expose credentials or host insecure webviews. Tokens are stored in Unity's standard encrypted PlayerPrefs storage and validated against CrimX backend endpoints.
 
 ---
 
