@@ -18,7 +18,7 @@ Official Unity SDK for the **CrimsonFlame CrimX Ecosystem** — providing DoorAu
 
 ## 🚀 Installation
 
-### Via Unity Package Manager (Git URL)
+### Option 1: Via Unity Package Manager (Git URL)
 
 1. Open your Unity Project (2021.3 LTS or newer recommended).
 2. In the top menu, go to **Window** > **Package Manager**.
@@ -28,6 +28,12 @@ Official Unity SDK for the **CrimsonFlame CrimX Ecosystem** — providing DoorAu
    https://github.com/CrimsonOnGit-hub/CrimX-Unity-SDK.git
    ```
 5. Click **Add**. Unity will automatically download, compile, and configure the SDK.
+
+### Option 2: Direct `.unitypackage` Download
+
+1. Download the latest release: [CrimX-Unity-SDK-v1.0.0.unitypackage](https://github.com/CrimsonOnGit-hub/CrimX-Unity-SDK/releases/download/v1.0.0/CrimX-Unity-SDK-v1.0.0.unitypackage)
+2. In Unity, go to **Assets** > **Import Package** > **Custom Package...**
+3. Select the downloaded `.unitypackage` file and click **Import**.
 
 ---
 
