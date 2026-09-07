@@ -1,0 +1,30 @@
+{
+  "name": "com.crimsonflame.crimx",
+  "version": "1.0.0",
+  "displayName": "CrimX Unity SDK",
+  "description": "Official Unity SDK for CrimX - Player Identity, Single Sign-On (SSO), Real-Time Friends, and Cloud Presence for CrimsonFlame games.",
+  "unity": "2021.3",
+  "author": {
+    "name": "CrimsonFlame LLC",
+    "email": "allaboutwaterdiamond@gmail.com",
+    "url": "https://crimsonflame.net"
+  },
+  "keywords": [
+    "crimx",
+    "crimsonflame",
+    "identity",
+    "auth",
+    "sso",
+    "friends",
+    "presence",
+    "vr"
+  ],
+  "dependencies": {},
+  "samples": [
+    {
+      "displayName": "CrimX Auth & Friends Demo",
+      "description": "Complete interactive sample scene with login UI, player profile display, and friends list synchronization.",
+      "path": "Samples~/Demo"
+    }
+  ]
+}
